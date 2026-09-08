@@ -6,7 +6,7 @@ The project extends the existing 1Fi Shop experience with a dedicated Marketplac
 
 ## 🚀 Live Demo
 
-Coming soon.
+[1Fi Marketplace](https://1fi-marketplace-ivory.vercel.app/)
 
 ## ✨ Features
 
