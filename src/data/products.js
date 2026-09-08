@@ -55,7 +55,7 @@ export const products = [
     category: "Audio",
     price: 29990,
     image:
-      "https://www.headphonezone.in/cdn/shop/products/Sony-WH-1000XM5-Noise-Cancelling-Wireless-Headphones-Black-1.jpg",
+      "https://m.media-amazon.com/images/I/71o8Q5XJS5L._SL1500_.jpg",
     description:
       "Premium wireless headphones with industry-leading noise cancellation and immersive sound.",
     variants: [
